@@ -1,0 +1,17 @@
+.alice-carousel ul li img{
+    height: 400px;
+    width: 70%;
+    object-fit: cover;
+    margin-top: 150px;
+    padding-left: 30%;
+    /* display: flex;
+    justify-content: center; */
+  }
+  .alice-carousel__wrapper{
+    display: flex;
+    justify-content: center;
+  }
+
+ @tailwind base;
+@tailwind components;
+@tailwind utilities;
